@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",Antena 3
+http://186.167.114.171:7136/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="-",Caracol HD
+http://186.167.114.171:7136/play/a0ly/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+http://186.167.114.171:7136/play/a0mb/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+http://186.167.114.171:7136/play/a0ld/index.m3u8
+#EXTINF:-1 group-title="-",HBO HD
+http://186.167.114.171:7136/play/a0kt/index.m3u8
+#EXTINF:-1 group-title="-",HBO POP HD
+http://186.167.114.171:7136/play/a0sq/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+http://186.167.114.171:7136/play/a0kg/index.m3u8
+#EXTINF:-1 group-title="-",HBO Signature
+http://186.167.114.171:7136/play/a0kh/index.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME
+http://186.167.114.171:7136/play/a0le/index.m3u8
+#EXTINF:-1,LIFE TIME
+http://190.56.9.114:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",MTV
+http://45.186.106.220:5550/play/a041/index.m3u8
+#EXTINF:-1 group-title="-",MTV 00s HD
+http://45.186.106.220:5550/play/a03h/index.m3u8
+#EXTINF:-1 group-title="-",MTV 80s
+http://45.186.106.220:5550/play/a015/index.m3u8
+#EXTINF:-1 group-title="-",MTV HD
+http://45.186.106.220:5550/play/a01f/index.m3u8
+#EXTINF:-1 group-title="-",MTV Hits
+http://45.186.106.220:5550/play/a014/index.m3u8
+#EXTINF:-1 group-title="-",MTV LIVE
+http://45.186.106.220:5550/play/a03g/index.m3u8
+#EXTINF:-1 group-title="-",RCN - GUA
+http://200.12.41.194:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="-",RCN Novelas
+http://200.12.41.194:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CINEMA ESTE HD
+http://45.186.106.220:5550/play/a04r/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+http://45.186.106.220:5550/play/a03m/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+http://45.186.106.220:5550/play/a03l/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE O HD
+http://45.186.106.220:5550/play/a03j/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
+http://45.186.106.220:5550/play/a03k/index.m3u8
+#EXTINF:-1 group-title="-",Universal
+http://45.186.106.220:5550/play/a043/index.m3u8
+#EXTINF:-1 group-title="-",Univision HD
+http://45.186.106.220:5550/play/a04p/index.m3u8
