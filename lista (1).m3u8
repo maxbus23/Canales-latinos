@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="-",UNIVERSAL CINEMA ESTE HD
+http://45.186.106.220:5550/play/a04r/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL COMEDY HD
+http://45.186.106.220:5550/play/a03m/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CRIME HD
+http://45.186.106.220:5550/play/a03l/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL PREMIERE O HD
+http://45.186.106.220:5550/play/a03j/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL REALITY HD
+http://45.186.106.220:5550/play/a03k/index.m3u8
+#EXTINF:-1 group-title="-",Universal
+http://45.186.106.220:5550/play/a043/index.m3u8
+#EXTINF:-1 group-title="-",Univision HD
+http://45.186.106.220:5550/play/a04p/index.m3u8
