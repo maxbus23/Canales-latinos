@@ -1,0 +1,157 @@
+#EXTM3U
+
+#### HBO ####
+#EXTINF:-1 group-title="HBO",HBO 2
+http://186.167.114.171:7136/play/a0mb/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Family
+http://186.167.114.171:7136/play/a0ld/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO HD
+http://186.167.114.171:7136/play/a0kt/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO POP HD
+http://186.167.114.171:7136/play/a0sq/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Plus
+http://186.167.114.171:7136/play/a0kg/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO Signature
+http://186.167.114.171:7136/play/a0kh/index.m3u8
+#EXTINF:-1 group-title="HBO",HBO XTREME
+http://186.167.114.171:7136/play/a0le/index.m3u8
+
+#### MTV ####
+#EXTINF:-1 group-title="MTV",MTV
+http://186.167.114.171:7136/play/a0l1/index.m3u8
+#EXTINF:-1 group-title="MTV",MTV 00s
+http://186.167.114.171:7136/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="MTV",MTV LIVE HD
+http://186.167.114.171:7136/play/a0i6/index.m3u8
+#EXTINF:-1 group-title="MTV",MTV
+http://45.186.106.220:5550/play/a041/index.m3u8
+#EXTINF:-1 group-title="MTV",MTV 00s HD
+http://45.186.106.220:5550/play/a03h/index.m3u8
+#EXTINF:-1 group-title="MTV",MTV 80s
+http://45.186.106.220:5550/play/a015/index.m3u8
+#EXTINF:-1 group-title="MTV",MTV HD
+http://45.186.106.220:5550/play/a01f/index.m3u8
+#EXTINF:-1 group-title="MTV",MTV Hits
+http://45.186.106.220:5550/play/a014/index.m3u8
+#EXTINF:-1 group-title="MTV",MTV LIVE
+http://45.186.106.220:5550/play/a03g/index.m3u8
+
+#### Cine ####
+#EXTINF:-1 group-title="Cine",DE PELICULA
+http://186.194.160.110:9002/play/a0gn/index.m3u8
+#EXTINF:-1 group-title="Cine",CINE FAMILIAR
+http://186.194.160.110:9002/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Cine",CINE HISPANO
+http://186.194.160.110:9002/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Cine",CINE PREMIUM
+http://186.194.160.110:9002/play/a07h/index.m3u8
+#EXTINF:-1 group-title="Cine",TCM
+http://186.167.114.171:7136/play/a0ma/index.m3u8
+#EXTINF:-1 group-title="Cine",Space HD
+http://186.167.114.171:7136/play/a0sm/index.m3u8
+#EXTINF:-1 group-title="Cine",Sony
+http://186.167.114.171:7136/play/a0l5/index.m3u8
+#EXTINF:-1 group-title="Cine",Paramount HD
+http://186.167.114.171:7136/play/a0db/index.m3u8
+#EXTINF:-1 group-title="Cine",Universal Cinema Este HD
+http://45.186.106.220:5550/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Cine",Universal Comedy HD
+http://45.186.106.220:5550/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Cine",Universal Crime HD
+http://45.186.106.220:5550/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Cine",Universal Premiere O HD
+http://45.186.106.220:5550/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Cine",Universal Reality HD
+http://45.186.106.220:5550/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Cine",Universal
+http://45.186.106.220:5550/play/a043/index.m3u8
+
+#### Noticias ####
+#EXTINF:-1 group-title="Noticias",CNN Español
+http://186.194.160.110:9002/play/a06d/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN Español
+http://186.194.160.110:9002/play/a0jx/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNN International
+http://186.194.160.110:9002/play/a09s/index.m3u8
+#EXTINF:-1 group-title="Noticias",Telesur
+http://186.167.114.171:7136/play/a0lz/index.m3u8
+#EXTINF:-1 group-title="Noticias",RAI
+http://186.167.114.171:7136/play/a0f5/index.m3u8
+#EXTINF:-1 group-title="Noticias",Antena 3
+http://186.167.114.171:7136/play/a0eo/index.m3u8
+#EXTINF:-1 group-title="Noticias",TVE
+http://186.167.114.171:7136/play/a0m8/index.m3u8
+#EXTINF:-1 group-title="Noticias",CGTN E
+http://186.194.160.110:9002/play/a07z/index.m3u8
+
+#### Deportes ####
+#EXTINF:-1 group-title="Deportes",TNT Sports
+http://186.167.114.171:7136/play/a0t0/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports Premiun HD
+http://186.167.114.171:7136/play/a0sx/index.m3u8
+#EXTINF:-1 group-title="Deportes",TyC Sports
+http://186.167.114.171:7136/play/a0mw/index.m3u8
+#EXTINF:-1 group-title="Deportes",Win Sports
+http://186.167.114.171:7136/play/a0t1/index.m3u8
+#EXTINF:-1 group-title="Deportes",Win Sports+
+http://186.167.114.171:7136/play/a0l4/index.m3u8
+
+#### Canales Latinos ####
+#EXTINF:-1 group-title="Canales Latinos",Caracol HD
+http://186.167.114.171:7136/play/a0ly/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",RCN HD
+http://186.167.114.171:7136/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",RCN - GUA
+http://200.12.41.194:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",RCN Novelas
+http://200.12.41.194:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",CARACOL HD 2
+http://186.194.160.110:9002/play/a010/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",CARACOL TV HD
+http://186.194.160.110:9002/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",CITY TV
+http://186.194.160.110:9002/play/a071/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Telemundo
+http://186.167.114.171:7136/play/a0m6/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Telemundo
+http://200.12.41.194:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Univision HD
+http://45.186.106.220:5550/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Pasiones
+http://186.167.114.171:7136/play/a0la/index.m3u8
+#EXTINF:-1 group-title="Canales Latinos",Telenovelas
+http://186.167.114.171:7136/play/a0ib/index.m3u8
+
+#### Otros ####
+#EXTINF:-1 group-title="Otros",STAR CHANNEL
+http://186.167.114.171:7136/play/a0me/index.m3u8
+#EXTINF:-1 group-title="Otros",STAR TVE
+http://186.167.114.171:7136/play/a0kr/index.m3u8
+#EXTINF:-1 group-title="Otros",National Geographic
+http://186.167.114.171:7136/play/a0lw/index.m3u8
+#EXTINF:-1 group-title="Otros",Nick HD
+http://186.167.114.171:7136/play/a0sr/index.m3u8
+#EXTINF:-1 group-title="Otros",Teen Nick
+http://186.167.114.171:7136/play/a0m1/index.m3u8
+#EXTINF:-1 group-title="Otros",Tooncast
+http://186.167.114.171:7136/play/a0m4/index.m3u8
+#EXTINF:-1 group-title="Otros",Sun Channel
+http://186.167.114.171:7136/play/a0l9/index.m3u8
+#EXTINF:-1 group-title="Otros",TV PERU
+http://186.167.114.171:7136/play/a0mh/index.m3u8
+#EXTINF:-1 group-title="Otros",TV+
+http://186.167.114.171:7136/play/a0mx/index.m3u8
+#EXTINF:-1 group-title="Otros",TelefØ
+http://186.167.114.171:7136/play/a0m7/index.m3u8
+#EXTINF:-1 group-title="Otros",LIFE TIME
+http://190.56.9.114:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="Otros",USA
+http://186.167.114.171:7136/play/a0er/index.m3u8
+#EXTINF:-1 group-title="Otros",Warner Channel HD
+http://186.167.114.171:7136/play/a0sl/index.m3u8
+#EXTINF:-1 group-title="Otros",UNIVERSAL CHANNEL HD
+http://186.167.114.171:7136/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="Otros",CHV
+http://186.194.160.110:9002/play/a064/index.m3u8
+#EXTINF:-1 group-title="Otros",CHV HD
+http://186.194.160.110:9002/play/a0bb/index.m3u8
